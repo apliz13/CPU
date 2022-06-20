@@ -1,0 +1,45 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family:
+'Roboto',sans-serif;
+} 
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image:url(https://besthqwallpapers.com/Uploads/6-12-2019/114257/thumb2-neon-light-background-neon-texture-lines-abstraction-background-blue-creative-background.jpg) ;
+    background-position: center;
+    background-size: cover;
+    padding-right:8%;
+    padding-left:8%;
+    box-sizing: border-box;
+}
+
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+}
+nav{ 
+
+    flex: 1 ;
+    text-align: right;
+}
+nav ul li{ 
+    list-style: none;
+    display: inline-block;
+    margin-left: 60px;
+    } 
+nav ul li a{ 
+    text-decoration: none;
+    color: #fffbff;
+    font-size: 24px;
+
+    } 
+h1{ 
+    text-decoration: none;
+    color: #fffbff;
+    font-size: 40px;
+
+    } 
+
