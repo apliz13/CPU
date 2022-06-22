@@ -47,6 +47,7 @@ p{
     text-decoration: none;
     color: #fffbff;
     font-size: 20px;
+    margin-bottom: 20px;
 
 
 }
@@ -64,4 +65,16 @@ h2{
     margin-bottom: 20px;
 
 
+}
+table{
+    text-decoration: none;
+    color: #fffbff;
+    font-size: 40px;
+}
+th{
+    text-decoration: none;
+    color: #fffbff;
+    font-size: 40px;
+    margin-bottom: 10 px;
+    margin-right: 10px;
 }
