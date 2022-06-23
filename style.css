@@ -50,6 +50,7 @@
         }
     
     h1{ 
+        
         color: #fffbff;
         font-size: 100px;
         }
@@ -60,5 +61,11 @@
         color: #fffbff;
         font-size: 20px;
         } 
+        
+    .color{
+        color: blue;
 
+
+
+    }
     
